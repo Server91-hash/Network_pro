@@ -1,9 +1,9 @@
 """
-Network Tools Pro v1.0  -  native desktop app (Python + PySide6 / Qt)
+Network Tools Pro v1.0  -  native desktop app
 Monitor . Diagnose . Troubleshoot
 
 Install:   pip install PySide6 psutil
-Run:       python network_tools_pro.py
+Run:       python Network_pro.py
 (Run as Administrator / root to see process names for every port.)
 """
 import csv
